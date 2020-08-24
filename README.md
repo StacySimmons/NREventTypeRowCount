@@ -12,6 +12,8 @@ optional arguments:
   -h, --help            show this help message and exit
   -a ACCOUNTID, --accountid ACCOUNTID
                         New Relic RPM Account ID
+  -d DAYSAGO, --daysago DAYSAGO
+                        Number of days to search. Default is 1.
   -o OUTPUTFILE, --outputfile OUTPUTFILE
                         File name to report results
   -p, --printoutput     Print output file to screen in addition to file
